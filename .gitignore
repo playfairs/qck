@@ -25,4 +25,7 @@ Thumbs.db
 .direnv/
 .envrc
 
-result*
+result
+result-*
+
+.nix-profile
